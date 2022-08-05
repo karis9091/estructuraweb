@@ -1,0 +1,18 @@
+ .card-content{
+    margin-top: 50px;
+    
+     
+}
+.avatar{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 80px;
+
+} 
+
+.material-icons {
+    color: red !important;
+    }
+.label{
+    font-size: 70px;
+}
